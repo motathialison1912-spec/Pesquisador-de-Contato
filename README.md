@@ -16,6 +16,9 @@ O projeto foi desenvolvido utilizando **HTML, CSS e JavaScript puro**, com foco 
 
 ---
 
+<img<img width="1336" height="707" alt="contato" src="https://github.com/user-attachments/assets/ece3bcd8-4c65-4ebb-8c1d-af075e00e850" />
+ />
+
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/> 
